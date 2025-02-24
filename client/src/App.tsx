@@ -28,7 +28,7 @@ import { parseJwt } from "utils/parse-jwt";
 import { 
   Login,
   Home,
-  Agents,
+  Agents, 
   MyProfile, 
   PropertyDetails,
   AllProperties,
