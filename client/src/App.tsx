@@ -29,7 +29,7 @@ import {
   Login,
   Home,
   Agents,
-  MyProfile,
+  MyProfile, 
   PropertyDetails,
   AllProperties,
   CreateProperty,
