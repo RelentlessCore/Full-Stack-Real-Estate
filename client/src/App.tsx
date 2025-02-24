@@ -6,7 +6,7 @@ import {
   RefineSnackbarProvider,
   CssBaseline,
   GlobalStyles,
-  ReadyPage,
+  ReadyPage, 
   ErrorComponent,
 } from "@pankod/refine-mui";
 import {
