@@ -5,7 +5,7 @@ import {
   notificationProvider,
   RefineSnackbarProvider,
   CssBaseline, 
-  GlobalStyles,
+  GlobalStyles, 
   ReadyPage,   
   ErrorComponent,
 } from "@pankod/refine-mui";  
