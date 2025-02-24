@@ -4,7 +4,7 @@ import { Refine, AuthProvider } from "@pankod/refine-core";
 import {
   notificationProvider,
   RefineSnackbarProvider, 
-  CssBaseline, 
+  CssBaseline,  
   GlobalStyles, 
   ReadyPage,   
   ErrorComponent,
