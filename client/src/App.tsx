@@ -8,7 +8,7 @@ import {
   GlobalStyles,
   ReadyPage,  
   ErrorComponent,
-} from "@pankod/refine-mui";
+} from "@pankod/refine-mui"; 
 import {
   AccountCircleOutlined,
   ChatBubbleOutline,
