@@ -9,7 +9,7 @@ import {
   ReadyPage,   
   ErrorComponent,
 } from "@pankod/refine-mui";  
-import {
+import { 
   AccountCircleOutlined,
   ChatBubbleOutline,
   PeopleAltOutlined,
