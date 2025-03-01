@@ -29,19 +29,22 @@ A **modern, full-stack property management dashboard** designed to streamline **
 ## 📸 Screenshots  
 
 ### **Dashboard Overview**  
-![Dashboard](INSERT_IMAGE_URL_HERE)  
+![Dashboard](https://github.com/user-attachments/assets/ad1b11d0-4cf3-4b4a-b502-fdd1b9e9a8d1)  
 
 ### **Property Listings Page**  
-![Properties](INSERT_IMAGE_URL_HERE)  
+![Properties](https://github.com/user-attachments/assets/53765787-4426-4aba-ba81-b10cace1ffb7)  
 
 ### **Property Details Page**  
-![Property Details](INSERT_IMAGE_URL_HERE)  
+![Property Details](https://github.com/user-attachments/assets/c075306c-a1d5-4d38-b6f9-cfd15a5340cb)  
 
 ### **Agent Profile Page**  
-![Agent Profile](INSERT_IMAGE_URL_HERE)  
+![Agent Profile](https://github.com/user-attachments/assets/78eabcb3-8ae5-4133-9215-8d63c729dd11)  
 
 ### **User Authentication (Google OAuth)**  
-![Login Page](INSERT_IMAGE_URL_HERE)  
+![Login Page](https://github.com/user-attachments/assets/7207b2ec-807b-45e1-940e-74b86be8a5b0)  
+
+### **Additional Feature View**  
+![Feature](https://github.com/user-attachments/assets/0bb2faa8-a246-4e67-aa61-d2f276e0e7ec)  
 
 ---
 
