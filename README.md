@@ -1,6 +1,6 @@
 # 🚀 Full-Stack MERN Application  
 
-A **modern, full-stack property management dashboard** designed to streamline **real estate listings, agent management, and property transactions**. Built with **React, Node.js, MongoDB, and Refine**, it offers a seamless user experience with **Google authentication, dynamic CRUD operations, and cloud image storage**.  
+A **modern, full-stack property management dashboard** designed to streamline **real estate listings, agent management, and property transactions**. Built with **React, Node.js, MongoDB, and Express.js**, it offers a seamless user experience with **Google authentication, dynamic CRUD operations, and cloud image storage**.  
 
 ## ✨ Features  
 
