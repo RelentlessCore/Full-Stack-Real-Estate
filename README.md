@@ -17,7 +17,7 @@ A **modern, full-stack property management dashboard** designed to streamline **
 
 ## 🔥 Tech Stack  
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Refine  
+- **Frontend:** React, TypeScript, Tailwind CSS, Refine  
 - **Backend:** Node.js, Express.js, MongoDB  
 - **Authentication:** Google OAuth  
 - **Cloud Storage:** Cloudinary  
